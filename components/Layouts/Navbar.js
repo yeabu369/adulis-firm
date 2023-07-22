@@ -80,7 +80,7 @@ class Navbar extends Component {
                                                 </Link>
                                           
                                                 <Link href="/it-agency" activeClassName="active">
-                                                    <a className="nav-link">IT Agency</a>
+                                                    <a className="nav-link">Ecommerce Company</a>
                                                 </Link>
                                            
                                                 <Link href="/marketing-agency" activeClassName="active">
@@ -114,7 +114,7 @@ class Navbar extends Component {
                                                 </Link>
                                           
                                                 <Link href="/it-agency-2" activeClassName="active">
-                                                    <a className="nav-link">IT Agency Two</a>
+                                                    <a className="nav-link">Ecommerce Company Two</a>
                                                 </Link>
                                            
                                                 <Link href="/marketing-agency-2" activeClassName="active">

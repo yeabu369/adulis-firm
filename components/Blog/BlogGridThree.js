@@ -98,7 +98,7 @@ class BlogGrid extends Component {
 
                                         <div className="post-tag">
                                             <Link href="/blog">
-                                                <a>IT Agency</a>
+                                                <a>Ecommerce Company</a>
                                             </Link>
                                         </div>
                                     </div>

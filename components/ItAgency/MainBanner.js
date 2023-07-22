@@ -24,7 +24,7 @@ class MainBanner extends Component {
                                 <div className="row align-items-center">
                                     <div className="col-lg-6">
                                         <div className="main-banner-content">
-                                            <h1>We're an IT agency</h1>
+                                            <h1>We're an Ecommerce Company</h1>
                                                 
                                             <p>Kickstart your brand value with Websites, Apps, digital marketing services and more.</p>
                                         
