@@ -121,14 +121,14 @@ class Footer extends Component {
                                     <h3>Get in Touch</h3>
 
                                     <ul className="get-in-touch">
-                                        <li><i className="icofont-home"></i> 2750 Quadra Street Victoria, Canada.</li>
+                                        <li><i className="icofont-home"></i>447 Broadway, 2nd Floor, 490, New York, NY 10013</li>
                                         <li>
                                             <i className="icofont-live-support"></i> 
-                                            <a href="tel:+324-9442-515">+324-9442-515</a>
+                                            <a href="tel:+12407436863">+1 240 743-6863</a>
                                         </li>
                                         <li>
                                             <i className="icofont-envelope"></i> 
-                                            <a href="mailto:hello@pungent.com">hello@pungent.com</a>
+                                            <a href="mailto:hello@adulis.com">hello@adulis.xyz</a>
                                         </li>
                                     </ul>
                                 </div>

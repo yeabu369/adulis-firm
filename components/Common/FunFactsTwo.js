@@ -15,7 +15,7 @@ class FunFactsTwo extends Component {
                         <div className="col-lg-3 col-sm-6">
                             <div className="funfact">
                                 <i className="icofont-checked"></i>
-                                <h3>20+</h3>
+                                <h3>0</h3>
                                 <p>Completed Projects</p>
                             </div>
                         </div>
@@ -23,7 +23,7 @@ class FunFactsTwo extends Component {
                         <div className="col-lg-3 col-sm-6">
                             <div className="funfact">
                                 <i className="icofont-ui-love"></i>
-                                <h3>15+</h3>
+                                <h3>0</h3>
                                 <p>Happy Clients</p>
                             </div>
                         </div>
@@ -31,7 +31,7 @@ class FunFactsTwo extends Component {
                         <div className="col-lg-3 col-sm-6">
                             <div className="funfact">
                                 <i className="icofont-tasks"></i>
-                                <h3>6+</h3>
+                                <h3>2+</h3>
                                 <p>Ongoing Projects</p>
                             </div>
                         </div>
@@ -39,7 +39,7 @@ class FunFactsTwo extends Component {
                         <div className="col-lg-3 col-sm-6">
                             <div className="funfact">
                                 <i className="icofont-win-trophy"></i>
-                                <h3>3+</h3>
+                                <h3>0</h3>
                                 <p>Winning Awards</p>
                             </div>
                         </div>
